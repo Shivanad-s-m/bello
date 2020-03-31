@@ -31,5 +31,6 @@ install -m 0755 %{name} %{buildroot}/%{_bindir}/%{name}
 %{_bindir}/%{name}
 
 %changelog
-* Tue March 31 2020 Me - 0.1
+* Tue May 31 2016 Adam Miller <maxamillion@fedoraproject.org> - 0.1-1
 - First bello package
+- Example second item in the changelog for version-release 0.1-1
